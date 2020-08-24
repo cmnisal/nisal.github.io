@@ -1,0 +1,6 @@
+[22-Feb-2020 11:19:45 America/New_York] PHP Warning:  Use of undefined constant mail - assumed 'mail' (this will throw an Error in a future version of PHP) in /home/nisaxiux/public_html/home/php/sendMail.php on line 45
+[07-Apr-2020 14:48:43 America/New_York] PHP Warning:  Use of undefined constant mail - assumed 'mail' (this will throw an Error in a future version of PHP) in /home/nisaxiux/public_html/home/php/sendMail.php on line 45
+[03-May-2020 05:14:42 America/New_York] PHP Warning:  Use of undefined constant mail - assumed 'mail' (this will throw an Error in a future version of PHP) in /home/nisaxiux/public_html/php/sendMail.php on line 45
+[03-May-2020 08:18:03 America/New_York] PHP Warning:  Use of undefined constant mail - assumed 'mail' (this will throw an Error in a future version of PHP) in /home/nisaxiux/public_html/php/sendMail.php on line 45
+[03-May-2020 08:18:24 America/New_York] PHP Warning:  Use of undefined constant mail - assumed 'mail' (this will throw an Error in a future version of PHP) in /home/nisaxiux/public_html/php/sendMail.php on line 45
+[04-May-2020 15:08:26 America/New_York] PHP Warning:  Use of undefined constant mail - assumed 'mail' (this will throw an Error in a future version of PHP) in /home/nisaxiux/public_html/php/sendMail.php on line 45
